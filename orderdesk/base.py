@@ -1,4 +1,5 @@
-from urlparse import urljoin
+# from urlparse import urljoin
+from urllib.parse import urljoin
 
 import json
 import os

@@ -1,4 +1,4 @@
-from client import OrderDeskClient
+from orderdesk.orderdesk.client import OrderDeskClient
 
 __version__ = '0.0.0'
 
